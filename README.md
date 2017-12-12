@@ -6,7 +6,7 @@
 
 * [Compound Growth Annuity](https://www.youtube.com/watch?v=sEB-SG82lSM) - Much like calculating a normal Annuity but with a clever  trick at *t=60s*.
 
-* [Bond Spreadsheet](https://www.youtube.com/watch?v=y9Hhad_CAHg) - An example of calculating bond price `PRI` and accrued interest `AI` on a bond. Interest is accrued when we are selling the bond in between coupon payments. The BA II Plus uses the *Semi-Theoretical Method*.
+* [Bond Spreadsheet](https://www.youtube.com/watch?v=y9Hhad_CAHg) - An example of calculating bond price `PRI` and accrued interest `AI` on a bond. Interest is accrued when the bond is sold between coupon payments. The BA II Plus uses the *Semi-Theoretical Method*.
 
 ![semi theoretical](https://github.com/Infinite-Actuary/BA-II-Plus-Professional/blob/master/images/semi-theoretical-method.png)
 
