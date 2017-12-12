@@ -10,4 +10,4 @@
 
 ![semi theoretical](https://github.com/Infinite-Actuary/BA-II-Plus-Professional/blob/master/images/semi-theoretical-method.png)
 
-* [Format Settings](https://www.youtube.com/watch?v=OWajtj8ewn0) - Switch between Chain (`CHN`: operators are applied immediately with no precedence) and Algebraic Operating System (`AOS`: the expression is evaluated using PEMDAS).
+* [Format Settings](https://www.youtube.com/watch?v=OWajtj8ewn0) - Switch between Chain (`CHN`: operators are applied immediately with no precedence) and Algebraic Operating System (`AOS`: the expression is evaluated using [PEMDAS](https://en.wikipedia.org/wiki/Order_of_operations)).
