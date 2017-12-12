@@ -10,3 +10,4 @@
 
 ![semi theoretical](https://github.com/Infinite-Actuary/BA-II-Plus-Professional/blob/master/images/semi-theoretical-method.png)
 
+* [Format Settings](https://www.youtube.com/watch?v=OWajtj8ewn0) - Switch between Chain (`CHN`: doesn't obey PEMDAS) and Algebraic Operating System (`AOS`: obeys PEMDAS).
