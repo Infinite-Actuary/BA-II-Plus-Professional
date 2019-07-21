@@ -15,7 +15,7 @@
 * Calculating the modified duration of an annuity immediate.
 > What is the modified duration of a 4 year annuity with level payments of $500 and a 6% annual yield?
 
-|     |               |                                                                                                             |
+| **2ND** | **BOND**        |                                                                                                             |
 |-----|---------------|-------------------------------------------------------------------------------------------------------------|
 | **SDT** | `1-01-2000`     |                                                                                                             |
 | **CPN** | `9,999,999,999` | *use the largest number possible since coupon (CPN) is a percentage of redemption value (RV), which is zero.* |
