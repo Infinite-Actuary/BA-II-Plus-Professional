@@ -13,7 +13,7 @@
 * [Format Settings](https://www.youtube.com/watch?v=OWajtj8ewn0) - Switch between Chain (`CHN`: operators are applied immediately with no precedence) and Algebraic Operating System (`AOS`: the expression is evaluated using [PEMDAS](https://en.wikipedia.org/wiki/Order_of_operations)).
 
 * Calculating the modified duration of an annuity immediate.
-> What is the modified duration of a 4 year annuity with level payments of $500 and 6% annual yield rate?
+> What is the modified duration of a 4 year annuity with level payments of $500 and a 6% annual yield?
 
 |     |               |                                                                                                             |
 |-----|---------------|-------------------------------------------------------------------------------------------------------------|
