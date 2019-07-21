@@ -11,3 +11,17 @@
 ![semi theoretical](https://github.com/Infinite-Actuary/BA-II-Plus-Professional/blob/master/images/semi-theoretical-method.png)
 
 * [Format Settings](https://www.youtube.com/watch?v=OWajtj8ewn0) - Switch between Chain (`CHN`: operators are applied immediately with no precedence) and Algebraic Operating System (`AOS`: the expression is evaluated using [PEMDAS](https://en.wikipedia.org/wiki/Order_of_operations)).
+
+* Calculating the modified duration of an annuity immediate.
+> What is the modified duration of a 4 year annuity with level payments of $500 and 6% annual yield rate?
+
+|     |               |                                                                                                             |
+|-----|---------------|-------------------------------------------------------------------------------------------------------------|
+| **SDT** | `1-01-2000`     |                                                                                                             |
+| **CPN** | `9,999,999,999` | *use the largest number possible since coupon (CPN) is a percentage of redemption value (RV), which is zero.* |
+| **RDT** | `1-01-2004`     |                                                                                                             |
+| **RV**  | `0`             |                                                                                                             |
+| **1/Y** |               |                                                                                                             |
+| **YLD** | `6`             |                                                                                                             |
+| **PRI** | **CPT** = 3.4651  | *a(4,0.06)*                                                                                                   |
+| **DUR** | 2.2898        |   ⬅️ 🤓 💯                                                                                                          |
